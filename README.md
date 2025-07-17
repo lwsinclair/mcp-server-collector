@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/chatmcp-mcp-server-collector-badge.png)](https://mseep.ai/app/chatmcp-mcp-server-collector)
+
 # mcp-server-collector MCP server
 
 A MCP Server used to collect MCP Servers over the internet.
